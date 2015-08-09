@@ -1,0 +1,1 @@
+Download Winaero. Automates configuration of the theme for a Windows default image. Put the appropriate version in each folder.

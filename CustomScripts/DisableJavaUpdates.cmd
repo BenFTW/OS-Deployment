@@ -1,0 +1,1 @@
+reg add "HKEY_LOCAL_MACHINE\Software\Wow6432Node\JavaSoft\Java Update\Policy" /v EnableJavaUpdate /t REG_DWORD /d 0 /f

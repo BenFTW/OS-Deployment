@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<servers>
+    <QueryDefault></QueryDefault>
+    <server>
+        <serverid>1</serverid>
+        <friendlyname>
+          Most Popular Server - Prod
+        </friendlyname>
+        <UNCPath>\\mdt01.contonso.com\MDTProd$</UNCPath>
+    </server>
+    <server>
+        <serverid>2</serverid>
+        <friendlyname>
+          Dev Environment - Development
+        </friendlyname>
+        <UNCPath>\\mdt01.contoso.com\MDTDev$</UNCPath>
+    </server> 
+</servers>

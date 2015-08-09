@@ -1,0 +1,1 @@
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v BGInfo/t REG_SZ /d 'C:\Windows\System32\bginfo64.exe C:\Windows\System32\Server.bgi /timer:0 /NOLICPROMPT' /f

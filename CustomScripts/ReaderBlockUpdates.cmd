@@ -1,0 +1,1 @@
+REG ADD "HKLM\SOFTWARE\Policies\Adobe\Acrobat Reader\11.0\FeatureLockDown" /V bUpdater /T REG_DWORD /D 0

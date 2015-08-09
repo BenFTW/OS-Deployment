@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<DomainOUs>
+		<DomainOU value="OU=Workstations,DC=contoso,DC=com">Contoso HQ Laptops</DomainOU>
+		<DomainOU value="OU=Desktops,DC=contoso,DC=com">Contoso HQ Desktops</DomainOU>
+		
+	</DomainOUs>

@@ -1,0 +1,1 @@
+reg add HKEY_LOCAL_MACHINE\Software\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell /v ExecutionPolicy /t REG_SZ /d "RemoteSigned" /f

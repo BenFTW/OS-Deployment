@@ -1,0 +1,1 @@
+reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search" /v SetupCompletedSuccessfully /t REG_DWORD /d 0 /f
